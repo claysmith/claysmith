@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack .NET Development
 - 🌱 I’m currently learning React, Vue, Postgresql, Ableton extensions, and vibe coding with opencode cli
 - 💞️ I’m looking to collaborate on code
-- 🎵 When I'm not coding, I'm interested in learning music, specifically Guitar (electric, classical, and acoustic) and Ableton Live. I am also teaching myself piano 🎹
+- 🎵 When I'm not coding, I'm interested in learning music, specifically Guitar (electric, classical, and acoustic) and Ableton Live. I am also teaching myself piano 🎹 and synths
 - 📫 How to reach me: clay.smith.r@gmail.com
 - ☕️ Buy me a coffee (paypal my email)
 
